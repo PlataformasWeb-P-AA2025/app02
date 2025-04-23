@@ -1,4 +1,4 @@
-import './style.css'
+// import './style.css'
 import $ from 'jquery';
 import dt from 'datatables.net-dt';
  
